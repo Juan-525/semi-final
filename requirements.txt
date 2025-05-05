@@ -1,0 +1,1 @@
+Flask==3.1.0  # Make sure to use the version compatible with your app
